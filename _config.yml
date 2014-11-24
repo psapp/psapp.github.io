@@ -1,0 +1,12 @@
+# Site settings
+title: Provable Software Applications Project
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  Pushing the bounds of open-source provable software
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://psapp.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  psapp
+
+# Build settings
+markdown: kramdown
